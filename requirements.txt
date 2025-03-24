@@ -1,0 +1,12 @@
+absl-py==2.1.0
+dotenv==0.0.5
+google-play-scraper==1.2.7
+matplotlib==3.9.2
+nltk==3.9.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+tensorflow==2.18.0
+wordcloud==1.9.4
+gensim==4.3.3
+serpapi==0.1.5
