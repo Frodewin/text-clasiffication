@@ -32,7 +32,7 @@ This project focuses on evaluating various deep learning models for text classif
 ### 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/Frodewin/text-classification.git
-cd nlp-model-evaluation
+cd your-folder-path
 ```
 
 ### 2️⃣ **Install Dependencies**
